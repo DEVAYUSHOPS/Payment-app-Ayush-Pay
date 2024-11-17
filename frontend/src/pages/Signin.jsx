@@ -22,7 +22,7 @@ export const Signin = () => {
             onChange={(e) => {
               setUsername(e.target.value);
             }}
-            placeholder="harkirat@gmail.com"
+            placeholder="ayush@gmail.com"
             label={"Email"}
           />
           <InputBox
